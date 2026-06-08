@@ -15,5 +15,8 @@
   "devDependencies": {
     "@knodes/typedoc-plugin-pages": "^0.23.1",
     "typedoc": "^0.23.27"
+  },
+  "dependencies": {
+    "iina-plugin-definition": "^0.99.3"
   }
 }
